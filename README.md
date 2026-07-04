@@ -1,4 +1,4 @@
-**Official release HTML67  
+## Official release HTML67  
 > HTML6 & HTML7 independence update · Munich, July 4, 2026
 
 HTML5, the *living standard*, defined the kernel of the web conclusively. HTML67 keeps that standard alive, picks the living part back up and carries it forward. Released for the 250th Independence Day, HTML67 delivers both the long-awaited HTML6 & HTML7 update that brings HTML's legacy components officially up to the state of the art with over 50 new relesed html native tags. *Same living standard, now tended, extended and connected to the world it runs in.*
