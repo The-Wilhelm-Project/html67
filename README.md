@@ -1,12 +1,9 @@
-# html67
+**Official release HTML67  
+> HTML6 & HTML7 independence update · Munich, July 4, 2026
 
-# HTML67 — HTML, thought further
+HTML5, the *living standard*, defined the kernel of the web conclusively. HTML67 keeps that standard alive, picks the living part back up and carries it forward. Released for the 250th Independence Day, HTML67 delivers both the long-awaited HTML6 & HTML7 update that brings HTML's legacy components officially up to the state of the art with over 50 new relesed html native tags. *Same living standard, now tended, extended and connected to the world it runs in.*
 
-> The kitchen sink.
-
-Cards, charts, legal and domain elements as native tags: one script, no build step. **122 elements, 0 build steps**, built on top of HTML5.
-
-HTML67 is part of [Project Wilhelm](https://html67.de).
+This groundbreaking update can be read as a declaration of independence. It gives every person (programmer or not) the ability to create HTML documents that are legally sound, functional and state of the art, with zero dependencies.
 
 ---
 
@@ -188,6 +185,4 @@ A semantic `<price>` or `<norm>` says in one tag what class-soup takes twenty to
 
 ---
 
-HTML67 is part of **Project Wilhelm** — a standard is only the first stone, and this is just the beginning.
-
-© Bekesi GmbH · Rablstraße 21b, 81669 München · [sven@bekesi.group](mailto:sven@bekesi.group)
+HTML67 and all future successor versions are maintained by Project Wilhelm, a European non-profit dedicated to the upkeep and evolution of the web standard and to completing the digitalisation of the world by 2030. HTML6 ships with this release at [www.html67.org](https://www.html67.org); the HTML7 beta follows here in Q3 2026. Project Wilhelm will ship three further major updates on the road to 2030.
