@@ -1,9 +1,10 @@
-# HTML67 — The Internet Independence Day
+# HTML67
 
-> HTML67 released before GTA6.
 
-**Official release · July 4, 2026 · 250th Independence Day · Munich · [www.html67.org](https://www.html67.org)**
+**Release · July 4, 2026 · 250th Independence Day · Munich · [www.html67.org](https://www.html67.org)**
+HTML67 is a runtime that extends HTML into a complete application language. It adds semantic elements, native Ul components, layouts, dialogs, Al primitives, and application features while remaining compatible with today's browsers.
 
+Write applications using HTML instead of frameworks. HTML67 introduces native components, layouts, dialogs, forms, AI elements, and application primitives directly as HTML tags—without a build step.
 The long-awaited **HTML6** clean-up and the first **HTML7** legal layer, shipped as native elements. One script, no build step, zero dependencies. **122 elements** on top of HTML5.
 
 ---
