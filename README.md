@@ -1,7 +1,6 @@
 # HTML67
+**Released · July 4, 2026
 
-
-**Release · July 4, 2026 · 250th Independence Day · Munich · [www.html67.org](https://www.html67.org)**
 HTML67 is a runtime that extends HTML into a complete application language. It adds semantic elements, native Ul components, layouts, dialogs, Al primitives, and application features while remaining compatible with today's browsers.
 
 Write applications using HTML instead of frameworks. HTML67 introduces native components, layouts, dialogs, forms, AI elements, and application primitives directly as HTML tags—without a build step.
